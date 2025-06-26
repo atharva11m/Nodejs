@@ -1,0 +1,11 @@
+{
+  "name": "practical04",
+  "version": "1.0.0",
+  "description": "File Handling in NODE.js\r FS(File System) Module in Nodejs.(Core Module)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
