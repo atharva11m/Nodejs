@@ -1,0 +1,10 @@
+const data = require("./data.json");
+console.log(data);
+console.log("------------------------------");
+console.log("NAME       :" + data.name);
+console.log("ID         :" + data.id);
+console.log("address    :" + data.address);
+console.log("street     :" + data.address.street);
+console.log("Hobbies    :" + data.hobbies);
+console.log("Telephone  :" + data.Telephone);
+console.log("Hobby 2    :" + data.hobbies[1]);
